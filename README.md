@@ -1,2 +1,3 @@
-# aru-s-adventure
+# 阿噜的大冒险（Aru's Adventure)
 给任天堂Gameboy掌机开发的小游戏项目（未完工）
+项目最后更新于2024年8月23日，恢复更新时间未知
